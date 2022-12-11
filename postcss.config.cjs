@@ -3,5 +3,6 @@ module.exports = {
     require('postcss-nested'),
     require('postcss-import'),
     require('postcss-mixins'),
+    require('postcss-extend-rule'),
   ],
 }
